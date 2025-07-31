@@ -1,1 +1,3 @@
 Start program.
+
+define a variable called "prices" that stores an array of numbers [17, 3, 6, 9, 15, 8, 6, 1, 10].
